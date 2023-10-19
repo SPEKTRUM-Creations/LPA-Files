@@ -11,7 +11,7 @@ see https://github.com/SPEKTRUM-Creations/LPA-WebApp
  ___|____|____|____\/____|____|____|___|_\/___|____\/___|____\/___|____|_
  _|____|_____|____|_____|___|_______|_|______|__|______|__|_____|____|___
  
-
+</pre>
 Are you a developer? Join us for a fun set of projects being developed by the team we will assemble through both the SCDN.SPEKTRUMCreations.com/ website and the online community we will start posting our development project files to on the repositories located and/or mirrored at github.com/SPEKTRUM-Creations.
 
  
@@ -19,7 +19,7 @@ This "Long Play Album" WebApp is where we begin with long term goal of creating 
 
 To view an example of the code we are developing, check out,
 
-https://spkml.app/wp-content/uploads/2023/04/TheFlight-LPA.0.9.7.1b-STABLE.html
+https://spkml.app/wp-content/uploads/2023/09/TheFlight-LPA.0.9.9.2.1b.html
 
 Note: the actual mp3 file being used, contains chapters already and as the goal is to include forward and back buttons to skip between songs in the single file containing all of the album contents, it will come to pass that we will add the next and previous track buttons to the music player interface...
 
@@ -30,7 +30,7 @@ Some Programs Keep Me Learning
 Some Programmers Know My Language
          as well as,
 Some People Know My Lyrics
-    ____________________________
+ <pre style="font:"Courier New", courier, fixed-width, monospaced>   ____________________________
   ⎛\  Scripted ✚ Designed by:  \
   ⎝⎠⎞   Christopher Johnson     ⎞
     ⎥   SPEKTRUMCreations.com   ⎥
@@ -38,6 +38,8 @@ Some People Know My Lyrics
    ⎛        Join S.C.D.N.      ⎛
    ⎢  help code the spkml DOM  ⎝
    \____________________________\
+
+		 </pre><pre style="font:"Courier New", courier, fixed-width, monospaced;word-wrap:auto;">
 This is an .lpa file prototype containing the example code and structure for the file type for the album contents format being developed by SCDN, led by the project lead and supported by all members of the dev team...
 
 This contains the mp3 file of the album:
