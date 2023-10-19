@@ -1,8 +1,6 @@
 # LPA-File
 see https://github.com/SPEKTRUM-Creations/LPA-WebApp
 
-Are you a developer? Join us for a fun set of projects being developed by the team we will assemble through both the SCDN.SPEKTRUMCreations.com/ website and the online community we will start posting our development project files to on the repositories located and/or mirrored at github.com/SPEKTRUM-Creations.
-
  ________________________________________________________________________
  __|____|____|____|____|____|_____|___|_____|_____|____|___|_____|____|__
  ___|____|_____|___|_____|____|_____|___/\_____|____|____|________|____|_
@@ -12,6 +10,10 @@ Are you a developer? Join us for a fun set of projects being developed by the te
  |____|____/_______  /_|____|__|_|____|___\\____/\_  /|_______\|____|____
  ___|____|____|____\/____|____|____|___|_\/___|____\/___|____\/___|____|_
  _|____|_____|____|_____|___|_______|_|______|__|______|__|_____|____|___
+ 
+
+Are you a developer? Join us for a fun set of projects being developed by the team we will assemble through both the SCDN.SPEKTRUMCreations.com/ website and the online community we will start posting our development project files to on the repositories located and/or mirrored at github.com/SPEKTRUM-Creations.
+
  
 This "Long Play Album" WebApp is where we begin with long term goal of creating the file-type (.LPA) as the definitive Digital-LongPlayAlbum container to be developed as the standard means of distributing digital albums (with full contents, not just the music but lyrics, liners, credits and more such as artwork and video content even...). The goal will be to leverage the SPKML Language as a part of the development of the .LPA file-type, making both the language and the file-type standard as essential to the musical world on the web...
 
