@@ -30,7 +30,7 @@ Some Programs Keep Me Learning
 Some Programmers Know My Language
          as well as,
 Some People Know My Lyrics
- <pre style="font:"Courier New", courier, fixed-width, monospaced>   ____________________________
+ <pre style="font:"Courier New", courier, fixed-width, monospaced;">   ____________________________
   ⎛\  Scripted ✚ Designed by:  \
   ⎝⎠⎞   Christopher Johnson     ⎞
     ⎥   SPEKTRUMCreations.com   ⎥
@@ -39,13 +39,13 @@ Some People Know My Lyrics
    ⎢  help code the spkml DOM  ⎝
    \____________________________\
 
-		 </pre><pre style="font:"Courier New", courier, fixed-width, monospaced;word-wrap:auto;">
+		
 This is an .lpa file prototype containing the example code and structure for the file type for the album contents format being developed by SCDN, led by the project lead and supported by all members of the dev team...
 
 This contains the mp3 file of the album:
 
 ✈ "The Flight" ✈ ♪ ▁▂▃▄▆██▆▄▃▂▁ ♫
-
+</pre>
 This MP3 file was converted from an M4B file which was constructed from an AAC encoded m4a audio file which contains Chapter markers that are embedded in the final mp3 file in this repository, under the file 'The%20flight.mp3'. this file can be imported into Apple Music or other music players and will allow you to go to the previous track or the next track within the same MP3 file.
 
 Setting up an audio player within an HTML5 webApp Will require custom interface with the following buttons and ui elements:
